@@ -2,6 +2,7 @@
 # ## SCC0251.2020.1 - Image Processing
 # ### Prof. Dr. Moacir Ponti
 # ### 10284952 - Vitor Gratiere Torres
+# https://github.com/vitorgt/SCC0251
 
 # Imports
 import numpy as np
