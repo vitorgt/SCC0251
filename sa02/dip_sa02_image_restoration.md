@@ -26,9 +26,9 @@ def gaussian_filter(k=3, sigma=1.0):
 
 The input must be in this order:
 
-- image filename
-- k (filter size, a positive and odd integer)
-- sigma (standard deviation, a float point number > 0 and <=1)
-- gamma (regularization factor, a float point number >= 0 and <=1)
+- ```image``` filename
+- ```k``` (filter size, a positive and odd integer)
+- ```sigma``` (standard deviation, a float point number > 0 and <=1)
+- ```gamma``` (regularization factor, a float point number >= 0 and <=1)
 
 The output is the standard deviation value of the image pixels after restoration, rounded to 1 decimal place.
