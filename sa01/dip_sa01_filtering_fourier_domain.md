@@ -1,3 +1,7 @@
+# Short Assignment 1: Filtering in Fourier Domain
+
+## SCC0251.2020.1 - Image Processing
+
 In this short assignment you'll implement DFT 2D and Inverse DFT 2D using only numpy. **Use vector/matrix processing whenever possible to decrease running time
 
 The program takes as input an image filename (that must be loaded into memory) and a float number.
