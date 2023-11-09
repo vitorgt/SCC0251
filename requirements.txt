@@ -1,6 +1,6 @@
 imageio==2.9.0
 ipykernel==5.3.4
-jupyter-core==4.6.3
+jupyter-core==4.11.2
 matplotlib==3.3.3
 notebook==6.4.12
 numpy==1.22.0
